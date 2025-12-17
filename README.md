@@ -30,7 +30,6 @@ I am currently **learning Python**, and this is my **very first tool**.
    source SSH-Bruteforcer/bin/activate
    pip install -r requirements.txt
 
-
 ## 📋 Usage
 
 To use this tool, run the main script and follow the interactive prompts:
