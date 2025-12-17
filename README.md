@@ -21,14 +21,13 @@ I am currently **learning Python**, and this is my **very first tool**.
 * **Auto-Policy**: Automatically handles missing SSH host keys.
 
 ## 🛠️ Installation & Requirements
-
-   ```bash
+ ```bash
    git clone https://github.com/w3n0ga5h/SSH-Bruteforcer.git
    cd SSH-Bruteforcer
    python3 -m venv SSH-Bruteforcer
    source SSH-Bruteforcer/bin/activate
    pip install -r requirements.txt
-
+```
 ## 📋 Usage
 
 To use this tool, run the main script and follow the interactive prompts:
