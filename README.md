@@ -1,6 +1,6 @@
 ## 📝 Description
 
-This script is designed to test the security of an SSH server by attempting to log in with a specific username and a list of passwords provided in a text file. It uses the `paramiko` library for SSH connections and `termcolor` to provide clear, color-coded feedback in the terminal.
+This script is designed to test the security of an SSH server by attempting to log in with a usernames and a passwords list provided in a text file. It uses the `paramiko` library for SSH connections and `termcolor` to provide clear, color-coded feedback in the terminal.
 
 ## 👤 Author's Note
 
