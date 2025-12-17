@@ -27,6 +27,7 @@ I am currently **learning Python**, and this is my **very first tool**.
    git clone https://github.com/w3n0ga5h/SSH-Bruteforcer.git
    cd SSH-Bruteforcer
    python3 -m venv SSH-Bruteforcer
+   pip install -r requirements.txt
    source SSH-Bruteforcer/bin/activate
 
 ## 📋 Usage
