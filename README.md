@@ -22,7 +22,6 @@ I am currently **learning Python**, and this is my **very first tool**.
 
 ## 🛠️ Installation & Requirements
 
-1. **Clone the repository:**
    ```bash
    git clone https://github.com/w3n0ga5h/SSH-Bruteforcer.git
    cd SSH-Bruteforcer
