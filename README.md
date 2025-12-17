@@ -36,7 +36,7 @@ I am currently **learning Python**, and this is my **very first tool**.
 To use this tool, run the main script and follow the interactive prompts:
 Bash
 
-    python sshbrute.py
+    python3 sshbrute.py
     
 
 ⚠️ Disclaimer
